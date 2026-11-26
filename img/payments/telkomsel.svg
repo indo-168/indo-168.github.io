@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40" fill="none" aria-label="Telkomsel">
+  <rect width="150" height="40" rx="6" fill="#fff"/>
+  <path fill="#ED1C24" d="M12 28 L22 8 L28 8 L18 28 Z"/>
+  <path fill="#8B1A1A" d="M20 28 L30 8 L36 8 L26 28 Z" opacity="0.85"/>
+  <text x="95" y="26" text-anchor="middle" fill="#ED1C24" font-family="Arial,Helvetica,sans-serif" font-size="12" font-weight="800">Telkomsel</text>
+</svg>
